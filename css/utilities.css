@@ -40,6 +40,10 @@
     height: 100%;
 }
 
+.text-center {
+    text-align: center;
+}
+
 .grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -84,7 +88,7 @@
 .btn-secondary a,
 .bg-dark a, 
 .btn-dark a {
-color: #fff;
+    color: #fff;
 }
 
 /* Text colors */
@@ -106,29 +110,29 @@ color: #fff;
 
 
 /* Text sizes */
-.lead {
+  .lead {
     font-size: 20px;
-}
+  }
 
-.sm {
+  .sm {
     font-size: 1rem;
-}
+  }
 
-.md {
+  .md {
     font-size: 2rem;
-}
+  }
 
-.lg {
+  .lg {
     font-size: 3rem;
-}
+  }
 
-.xl {
+  .xl {
     font-size: 4rem;
-}
+  }
 
-.text-center {
+  .text-center {
     text-align: center;
-}
+  }
 
   
   /* Margin */
