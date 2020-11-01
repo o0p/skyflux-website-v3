@@ -169,7 +169,7 @@ img {
 
 /* Languages */
 
-.languages. .flex{
+.languages .flex{
     flex-wrap: wrap;
 }
 .languages .card {
