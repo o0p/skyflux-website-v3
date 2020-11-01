@@ -214,6 +214,15 @@ img {
     grid-column: 1 / span 2;
 }
 
+/* Docs */
+.docs-main h3 {
+    margin: 20px 0;
+}
+
+.docs-main .grid {
+    grid-template-columns: 1fr 2fr;
+}
+
 /* Footer */
 .footer .social a {
     margin: 0 10px;
